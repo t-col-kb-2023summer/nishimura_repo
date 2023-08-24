@@ -53,7 +53,7 @@ def display_tokens():
 
 
 # UIの構築
-st.title("My AI Assistant (nishimura repo)")
+st.title("My AI Assistant (nishimura repo2)")
 st.write("ChatGPT APIを使ったチャットボットです。")
 display_tokens()
 
